@@ -1,0 +1,21 @@
+PODS:
+  - Bond (6.5.2):
+    - Differ (~> 1.0)
+    - ReactiveKit (~> 3.8)
+  - Differ (1.0.3)
+  - ReactiveKit (3.8.2)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Bond
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Bond: 2b8c1070674fe8ba908ae11dc4e7607377d17bab
+  Differ: 0c220ac75542f5f17f91b1303b85bf07d871ecd7
+  ReactiveKit: d2fe54503e0b6d0fa48b2cc6e0b0f99869f13ee6
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 53a9ad0ed0115260a592af61eba7839e0aaaefd0
+
+COCOAPODS: 1.3.1
